@@ -5,4 +5,3 @@ if n=="Friend":
     print("It is krishna")
 else:
     print("It is narayan")
-print("Hellow keshav")
